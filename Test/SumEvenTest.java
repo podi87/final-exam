@@ -18,7 +18,7 @@ public class SumEvenTest {
 
   @org.junit.Test
   public void sumEvenNumbers() throws Exception {
-    assertEquals(12, sumEven.sumEvenNumbers(testArray));
+    assertEquals(4, sumEven.sumEvenNumbers(testArray));
   }
 
 }
